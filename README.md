@@ -23,7 +23,7 @@ My custom visual studio code settings
 * (ALT + UP)                  Move current line to up
 * (ALT + DOWN)                Move current line to down
 * (CTRL + /)                  Comment current line
-* (CTRL + RETURN)                  Open terminal
+* (CTRL + RETURN)             Open terminal
 </pre>
 ## Keybindings.json
 ```
