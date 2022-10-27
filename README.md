@@ -23,3 +23,13 @@ Guide to setting up visual studio code
 * (ALT + DOWN)                = Move current line to down
 * (CTRL + /)                  = Comment current line
 
+## Keybindings.json
+```
+[
+  {
+    "key": "ctrl+enter",
+    "command": "workbench.action.terminal.toggleTerminal",
+    "when": "terminal.active"
+  }
+]
+```
