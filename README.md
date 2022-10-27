@@ -57,8 +57,6 @@ Guide to setting up visual studio code
   "editor.fontLigatures": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   // Files
-  // "files.autoSave": "afterDelay",
-  // "files.autoSaveDelay": 500,
   "files.encoding": "utf8",
   "files.eol": "\n",
   "files.trimTrailingWhitespace": true,
