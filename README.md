@@ -17,12 +17,12 @@ Guide to setting up visual studio code
 
 ## Shortcuts
 <pre>
-* (CTRL + SHIFT + I)          = Formatar o código
-* (SELECT) + (CTRL + D)       = Seleciona a proxima string igual que for localizada
-* (ALT + CLICK)               = Cria multiplos cursores
-* (ALT + UP)                  = Move current line to up
-* (ALT + DOWN)                = Move current line to down
-* (CTRL + /)                  = Comment current line
+* (CTRL + SHIFT + I)          Formatar o código
+* (SELECT) + (CTRL + D)       Seleciona a proxima string igual que for localizada
+* (ALT + CLICK)               Cria multiplos cursores
+* (ALT + UP)                  Move current line to up
+* (ALT + DOWN)                Move current line to down
+* (CTRL + /)                  Comment current line
 </pre>
 ## Keybindings.json
 ```
