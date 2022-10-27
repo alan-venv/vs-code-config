@@ -1,5 +1,5 @@
 # Visual Studio Code
-Guide to setting up visual studio code
+My custom visual studio code settings
 
 ## Extensions
 * Auto Rename Tag
