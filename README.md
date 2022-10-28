@@ -2,14 +2,13 @@
 My custom visual studio code settings
 
 ## Extensions
-* Auto Rename Tag
 * Better Comments
 * Code Spell Checker
 * Error Lens
+* Go
 * Material Icon Theme
 * One Dark Pro
 * Path Intellisense
-* Prettier
 * Thunder Client
 
 ## Fonts
@@ -41,7 +40,7 @@ My custom visual studio code settings
 {
   // Workbench
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "One Dark Pro",
+  "workbench.colorTheme": "One Dark Pro Darker",
   "workbench.startupEditor": "none",
   "workbench.editor.labelFormat": "short",
   // Editor
@@ -52,12 +51,14 @@ My custom visual studio code settings
   "editor.semanticHighlighting.enabled": false,
   "editor.bracketPairColorization.enabled": true,
   "editor.fontSize": 16,
-  "editor.rulers": [80, 120],
+  "editor.rulers": [
+    80,
+    120
+  ],
   "editor.suggestSelection": "first",
   "editor.renderLineHighlight": "gutter",
   "editor.lineHeight": 26,
   "editor.fontLigatures": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   // Files
   "files.encoding": "utf8",
   "files.eol": "\n",
@@ -85,10 +86,12 @@ My custom visual studio code settings
     "modules": "components",
     "infra": "app",
     "factories": "class",
-    "repositories": "mappings"
+    "repositories": "mappings",
+    "sqlite": "database",
+    "in-memory": "database"
   },
-  "[prisma]": {
-    "editor.formatOnSave": true
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
   }
 }
 ```
