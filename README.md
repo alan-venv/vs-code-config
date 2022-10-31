@@ -88,10 +88,20 @@ My custom visual studio code settings
     "factories": "class",
     "repositories": "mappings",
     "sqlite": "database",
-    "in-memory": "database"
+    "in-memory": "database",
   },
   "[go]": {
     "editor.defaultFormatter": "golang.go"
-  }
+  },
+  "cSpell.userWords": [
+    "dbname",
+    "gonic",
+    "gorm",
+    "pynput",
+    "sslmode",
+    "todos",
+    "usecases"
+  ]
 }
+
 ```
