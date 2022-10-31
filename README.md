@@ -11,6 +11,7 @@ My custom visual studio code settings
 * One Dark Pro
 * Path Intellisense
 * Python
+* Code Spell Checker
 
 ## Fonts
 * sudo apt install fonts-firacode
