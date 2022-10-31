@@ -103,5 +103,4 @@ My custom visual studio code settings
     "usecases"
   ]
 }
-
 ```
