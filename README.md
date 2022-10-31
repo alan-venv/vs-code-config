@@ -3,13 +3,14 @@ My custom visual studio code settings
 
 ## Extensions
 * Better Comments
+* Docker
 * Code Spell Checker
 * Error Lens
 * Go
 * Material Icon Theme
 * One Dark Pro
 * Path Intellisense
-* Thunder Client
+* Python
 
 ## Fonts
 * sudo apt install fonts-firacode
