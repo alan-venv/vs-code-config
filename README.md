@@ -2,16 +2,12 @@
 My custom visual studio code settings
 
 ## Extensions
-* Better Comments
-* Docker
-* Code Spell Checker
+* Min Dark
 * Error Lens
-* Go
-* Material Icon Theme
-* One Dark Pro
+* Better Comments
 * Path Intellisense
-* Python
 * Code Spell Checker
+* Material Icon Theme
 
 ## Fonts
 * sudo apt install fonts-firacode
@@ -42,7 +38,7 @@ My custom visual studio code settings
 {
   // Workbench
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "Min Dark",
   "workbench.startupEditor": "none",
   "workbench.editor.labelFormat": "short",
   // Editor
@@ -92,11 +88,9 @@ My custom visual studio code settings
     "sqlite": "database",
     "in-memory": "database",
   },
-  "[go]": {
-    "editor.defaultFormatter": "golang.go"
-  },
   "cSpell.userWords": [
     "dbname",
+    "Fira",
     "gonic",
     "gorm",
     "pynput",
