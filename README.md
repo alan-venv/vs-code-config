@@ -75,6 +75,7 @@ My custom visual studio code settings
   "terminal.integrated.fontSize": 14,
   // Extensions
   "extensions.ignoreRecommendations": true,
+  "material-icon-theme.activeIconPack": "nest",
   "material-icon-theme.folders.associations": {
     "entities": "class",
     "use-cases": "functions",
