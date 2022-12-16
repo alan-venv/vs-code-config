@@ -5,6 +5,7 @@ My custom visual studio code settings
 * Min Dark
 * Error Lens
 * Better Comments
+* Even Better TOML
 * Path Intellisense
 * Code Spell Checker
 * Material Icon Theme
